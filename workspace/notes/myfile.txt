@@ -1,0 +1,1 @@
+It covers RAII and smart pointers, const-correct efficient code, and understanding C++ lifetimes, move semantics, and undefined behavior.
